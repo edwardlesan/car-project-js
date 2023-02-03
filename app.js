@@ -76,6 +76,8 @@ function sortingValue()
     }
 }
 
+
+// function sort
 function sortElem(field, item, asc)
 {
     let dm, sortLi;
